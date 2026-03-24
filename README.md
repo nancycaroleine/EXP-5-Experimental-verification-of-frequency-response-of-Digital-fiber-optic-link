@@ -69,20 +69,19 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 
 ## BLOCK DIAGRAM
 
-*(Insert block diagram here)*
-
+![output](o3.png)
 ---
 
 ## TABULATION  
 **Transmission through Digital Link**
 
 
-![output](a1.jpeg)
+![output](o1.jpeg)
 ## MODEL GRAPH
 
 *(Insert model graph here)*
 
-![output](a2.jpeg)
+![output](o2.jpeg)
 
 ## RESULT
 
