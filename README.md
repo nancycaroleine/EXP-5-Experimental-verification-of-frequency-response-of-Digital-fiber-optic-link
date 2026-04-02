@@ -69,7 +69,7 @@ The photodiode converts the detected light into a photocurrent. With the aid of 
 
 ## BLOCK DIAGRAM
 
-![output](o3.png)
+<img width="376" height="273" alt="image" src="https://github.com/user-attachments/assets/16bd9bd8-7ca0-4fe4-805c-836e7d2393be" />
 ---
 
 ## TABULATION  
